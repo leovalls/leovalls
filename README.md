@@ -14,7 +14,7 @@ About me:
    <br/>
    <br/>
 <div id="header" align="center">
-  <b>ENJOY AND DANCE!</b>
+  <h2>ENJOY AND DANCE!</h2>
    <br/>
   <img src="https://media.giphy.com/media/wAxlCmeX1ri1y/giphy.gif" width="300"/>
   <div id="badges">
